@@ -1,0 +1,10 @@
+body{
+  margin:0;
+  background-color: green;
+}
+.tower{
+  height:50px;
+  width:30px;
+  background-color: yellow;
+  position:absolute;
+}
